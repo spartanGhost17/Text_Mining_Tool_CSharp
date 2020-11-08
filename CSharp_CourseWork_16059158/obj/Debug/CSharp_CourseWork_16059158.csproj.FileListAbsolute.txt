@@ -1,0 +1,11 @@
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\obj\Debug\CSharp_CourseWork_16059158.csprojAssemblyReference.cache
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\obj\Debug\CSharp_CourseWork_16059158.Form1.resources
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\obj\Debug\CSharp_CourseWork_16059158.Info.resources
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\obj\Debug\CSharp_CourseWork_16059158.Properties.Resources.resources
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\obj\Debug\CSharp_CourseWork_16059158.csproj.GenerateResource.cache
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\obj\Debug\CSharp_CourseWork_16059158.csproj.CoreCompileInputs.cache
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\bin\Debug\CSharp_CourseWork_16059158.exe.config
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\bin\Debug\CSharp_CourseWork_16059158.exe
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\bin\Debug\CSharp_CourseWork_16059158.pdb
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\obj\Debug\CSharp_CourseWork_16059158.exe
+C:\Users\adamb\source\repos\CSharp_CourseWork_16059158\CSharp_CourseWork_16059158\obj\Debug\CSharp_CourseWork_16059158.pdb
